@@ -1,0 +1,6 @@
+{
+  "short_name": "Yearly Calender",
+  "name": "Yearly Calender",
+  "start_url": ".",
+  "display": "standalone"
+}
